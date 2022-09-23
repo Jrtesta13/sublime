@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+ body {
+        background-color:#EEE;
+        font-family:'Lato',Helvetica,Arial;
+        font-size:15px;
+        display:flex;
+        margin: auto;
+        min-height:100vh;
+        height: auto;
+    }
+ button{
+    color: rgb(252, 245, 245); 
+    border: 5px rgb(20, 20, 20) solid;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: rgb(69, 214, 166) 5px 5px 5px;
+    
+ }
